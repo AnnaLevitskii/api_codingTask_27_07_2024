@@ -13,4 +13,6 @@ public class User {
     String job;
     String id;
     String createdAt;
+    String email;
+    String password;
 }
